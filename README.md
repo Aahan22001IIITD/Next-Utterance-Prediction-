@@ -32,3 +32,24 @@ BERT-based Re-ranker
 │ 
 ▼ 
 Final Selected Response
+
+
+```
+## Results
+
+| Model              | BLEU Score | BERTScore (F1) |
+|--------------------|------------|------------------|
+| T5-small           | 0.0162     | 0.8431           |
+| DialoGPT-medium    | 0.0240     | 0.9500           |
+| Re-ranked Pipeline | 0.0250     | 0.8423           |
+
+## Report
+
+*   Project Report (PDF)
+
+## Setup Instructions
+
+Clone the repository:
+```bash
+git clone https://github.com/Aahan22001IIITD/NLP---project
+cd NLP---project
