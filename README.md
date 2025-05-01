@@ -47,9 +47,6 @@ Final Selected Response
 
 *   Project Report (PDF)
 
-## Setup Instructions
 
-Clone the repository:
-```bash
-git clone https://github.com/Aahan22001IIITD/NLP---project
-cd NLP---project
+
+
